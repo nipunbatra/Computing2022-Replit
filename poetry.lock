@@ -187,6 +187,15 @@ optional = false
 python-versions = "*"
 
 [[package]]
+name = "pygame"
+version = "2.1.2"
+description = "Python Game Development"
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+
+[[package]]
 name = "yapf"
 version = "0.32.0"
 description = "A formatter for Python code."
